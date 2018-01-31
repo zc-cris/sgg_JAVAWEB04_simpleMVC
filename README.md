@@ -1,0 +1,3 @@
+# sgg_JAVAWEB04_simpleMVC
+simple mvc case (about CRUD handle of data on mysql)
+just a simple mvc-modle case, i spend a day to get it...
